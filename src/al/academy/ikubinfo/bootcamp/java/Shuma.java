@@ -1,5 +1,9 @@
 package al.academy.ikubinfo.bootcamp.java;
 
-public class Shuma {
-
+ class Main {
+public static void main(String[]Args) {
+	System.out.println("Mireserdhet ne bootcampin JAVA");
+	
+	
+}
 }
